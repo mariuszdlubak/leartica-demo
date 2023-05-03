@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/leartica-demo/static/css/main.2d64257f.css",
+    "main.js": "/leartica-demo/static/js/main.52f562dc.js",
+    "static/media/LearticaLogo.png": "/leartica-demo/static/media/LearticaLogo.68c2738bcf76143f56b3.png",
+    "index.html": "/leartica-demo/index.html",
+    "main.2d64257f.css.map": "/leartica-demo/static/css/main.2d64257f.css.map",
+    "main.52f562dc.js.map": "/leartica-demo/static/js/main.52f562dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d64257f.css",
+    "static/js/main.52f562dc.js"
+  ]
+}
